@@ -20,7 +20,6 @@ while True:
     counter += 1
     if que == ra:
         print("Correct !!")
-        break
     elif que > ra:
         print("Too High")
     else:
